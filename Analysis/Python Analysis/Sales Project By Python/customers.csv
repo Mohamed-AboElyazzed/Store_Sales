@@ -1,0 +1,794 @@
+Customer ID,Customer Name,Segment,Order_Count,Customer_Group
+CG-12520,Claire Gute,Consumer,3,Mid Level Customer
+DV-13045,Darrin Van Huff,Corporate,5,Mid Level Customer
+SO-20335,Sean O'Donnell,Consumer,6,Advanced Customer
+BH-11710,Brosina Hoffman,Consumer,8,Advanced Customer
+AA-10480,Andrew Allen,Consumer,4,Mid Level Customer
+IM-15070,Irene Maddox,Consumer,7,Advanced Customer
+HP-14815,Harold Pawlan,Home Office,7,Advanced Customer
+PK-19075,Pete Kriz,Consumer,12,Loyal Customer
+AG-10270,Alejandro Grove,Consumer,5,Mid Level Customer
+ZD-21925,Zuschuss Donatelli,Consumer,5,Mid Level Customer
+KB-16585,Ken Black,Corporate,12,Loyal Customer
+SF-20065,Sandra Flanagan,Consumer,7,Advanced Customer
+EB-13870,Emily Burns,Consumer,10,Advanced Customer
+EH-13945,Eric Hoffmann,Consumer,8,Advanced Customer
+TB-21520,Tracy Blumstein,Consumer,9,Advanced Customer
+MA-17560,Matt Abelman,Home Office,11,Loyal Customer
+GH-14485,Gene Hale,Corporate,2,Mid Level Customer
+SN-20710,Steve Nguyen,Home Office,7,Advanced Customer
+LC-16930,Linda Cazamias,Corporate,8,Advanced Customer
+RA-19885,Ruben Ausman,Corporate,6,Advanced Customer
+ES-14080,Erin Smith,Corporate,9,Advanced Customer
+ON-18715,Odella Nelson,Corporate,9,Advanced Customer
+PO-18865,Patrick O'Donnell,Consumer,7,Advanced Customer
+LH-16900,Lena Hernandez,Consumer,9,Advanced Customer
+DP-13000,Darren Powers,Consumer,8,Advanced Customer
+JM-15265,Janet Molinari,Corporate,5,Mid Level Customer
+TB-21055,Ted Butterfield,Consumer,4,Mid Level Customer
+KM-16720,Kunst Miller,Consumer,8,Advanced Customer
+PS-18970,Paul Stevenson,Home Office,8,Advanced Customer
+BS-11590,Brendan Sweed,Corporate,6,Advanced Customer
+KD-16270,Karen Daniels,Consumer,5,Mid Level Customer
+HM-14980,Henry MacAllister,Consumer,4,Mid Level Customer
+JE-15745,Joel Eaton,Consumer,13,Loyal Customer
+KB-16600,Ken Brennan,Corporate,7,Advanced Customer
+SC-20770,Stewart Carmichael,Corporate,7,Advanced Customer
+DN-13690,Duane Noonan,Consumer,7,Advanced Customer
+JC-16105,Julie Creighton,Corporate,5,Mid Level Customer
+CS-12400,Christopher Schild,Home Office,9,Advanced Customer
+PG-18895,Paul Gonzalez,Consumer,9,Advanced Customer
+GM-14455,Gary Mitchum,Home Office,6,Advanced Customer
+JS-15685,Jim Sink,Corporate,3,Mid Level Customer
+KB-16315,Karl Braun,Consumer,9,Advanced Customer
+RB-19705,Roger Barcio,Home Office,4,Mid Level Customer
+PN-18775,Parhena Norris,Home Office,8,Advanced Customer
+KD-16345,Katherine Ducich,Consumer,6,Advanced Customer
+ER-13855,Elpida Rittenbach,Corporate,3,Mid Level Customer
+RB-19465,Rick Bensley,Home Office,12,Loyal Customer
+GZ-14470,Gary Zandusky,Consumer,9,Advanced Customer
+LC-16870,Lena Cacioppo,Consumer,8,Advanced Customer
+JM-15250,Janet Martin,Consumer,6,Advanced Customer
+PA-19060,Pete Armstrong,Home Office,6,Advanced Customer
+CV-12805,Cynthia Voltz,Corporate,9,Advanced Customer
+CL-12565,Clay Ludtke,Consumer,12,Loyal Customer
+RC-19960,Ryan Crowe,Consumer,4,Mid Level Customer
+DK-13090,Dave Kipp,Consumer,7,Advanced Customer
+GG-14650,Greg Guthrie,Corporate,9,Advanced Customer
+SC-20725,Steven Cartwright,Consumer,11,Loyal Customer
+AD-10180,Alan Dominguez,Home Office,8,Advanced Customer
+PF-19165,Philip Fox,Consumer,6,Advanced Customer
+TS-21610,Troy Staebel,Consumer,7,Advanced Customer
+LS-16975,Lindsay Shagiari,Home Office,9,Advanced Customer
+DW-13585,Dorothy Wardle,Corporate,7,Advanced Customer
+LC-16885,Lena Creighton,Consumer,12,Loyal Customer
+JD-15895,Jonathan Doherty,Corporate,11,Loyal Customer
+SH-19975,Sally Hughsby,Corporate,12,Loyal Customer
+SG-20080,Sandra Glassco,Consumer,3,Mid Level Customer
+HA-14920,Helen Andreada,Consumer,8,Advanced Customer
+MG-17680,Maureen Gastineau,Home Office,4,Mid Level Customer
+JE-16165,Justin Ellison,Corporate,3,Mid Level Customer
+TW-21025,Tamara Willingham,Home Office,7,Advanced Customer
+SP-20650,Stephanie Phelps,Corporate,9,Advanced Customer
+NK-18490,Neil Knudson,Home Office,7,Advanced Customer
+DB-13060,Dave Brooks,Consumer,6,Advanced Customer
+NP-18670,Nora Paige,Consumer,5,Mid Level Customer
+TT-21070,Ted Trevino,Consumer,7,Advanced Customer
+EM-13960,Eric Murdock,Consumer,5,Mid Level Customer
+RD-19900,Ruben Dartt,Consumer,9,Advanced Customer
+MJ-17740,Max Jones,Consumer,7,Advanced Customer
+BM-11140,Becky Martin,Consumer,4,Mid Level Customer
+CS-12130,Chad Sievert,Consumer,4,Mid Level Customer
+JB-15400,Jennifer Braxton,Corporate,10,Advanced Customer
+SJ-20500,Shirley Jackson,Consumer,5,Mid Level Customer
+JK-15640,Jim Kriz,Home Office,9,Advanced Customer
+DK-13150,David Kendrick,Corporate,2,Mid Level Customer
+RM-19675,Robert Marley,Home Office,5,Mid Level Customer
+SK-19990,Sally Knutson,Consumer,3,Mid Level Customer
+FM-14290,Frank Merwin,Home Office,9,Advanced Customer
+AM-10360,Alice McCarthy,Corporate,5,Mid Level Customer
+MP-17470,Mark Packer,Home Office,6,Advanced Customer
+MZ-17515,Mary Zewe,Corporate,6,Advanced Customer
+CB-12025,Cassandra Brandow,Consumer,9,Advanced Customer
+VM-21685,Valerie Mitchum,Home Office,7,Advanced Customer
+FH-14365,Fred Hopkins,Corporate,8,Advanced Customer
+MB-17305,Maria Bertelson,Consumer,10,Advanced Customer
+BS-11755,Bruce Stewart,Consumer,7,Advanced Customer
+LC-17140,Logan Currie,Consumer,9,Advanced Customer
+HK-14890,Heather Kirkland,Corporate,8,Advanced Customer
+LE-16810,Laurel Elliston,Consumer,6,Advanced Customer
+JH-15985,Joseph Holt,Consumer,6,Advanced Customer
+MS-17980,Michael Stewart,Corporate,6,Advanced Customer
+VW-21775,Victoria Wilson,Corporate,10,Advanced Customer
+JH-15910,Jonathan Howell,Consumer,7,Advanced Customer
+JB-15925,Joni Blumstein,Consumer,3,Mid Level Customer
+DS-13180,David Smith,Corporate,9,Advanced Customer
+VD-21670,Valerie Dominguez,Consumer,6,Advanced Customer
+EA-14035,Erin Ashbrook,Corporate,12,Loyal Customer
+DB-13120,David Bremer,Corporate,7,Advanced Customer
+KL-16645,Ken Lonsdale,Consumer,12,Loyal Customer
+DW-13480,Dianna Wilson,Home Office,5,Mid Level Customer
+LH-17155,Logan Haushalter,Consumer,9,Advanced Customer
+KC-16540,Kelly Collister,Consumer,4,Mid Level Customer
+DL-13315,Delfina Latchford,Consumer,8,Advanced Customer
+DR-12880,Dan Reichenbach,Corporate,9,Advanced Customer
+CC-12670,Craig Carreira,Consumer,7,Advanced Customer
+Dl-13600,Dorris liebe,Corporate,5,Mid Level Customer
+SB-20290,Sean Braxton,Corporate,7,Advanced Customer
+RC-19825,Roy Collins,Consumer,6,Advanced Customer
+AH-10210,Alan Hwang,Consumer,9,Advanced Customer
+CB-12535,Claudia Bergmann,Corporate,8,Advanced Customer
+CA-12310,Christine Abelman,Corporate,4,Mid Level Customer
+KH-16690,Kristen Hastings,Corporate,7,Advanced Customer
+BB-10990,Barry Blumstein,Corporate,5,Mid Level Customer
+AG-10495,Andrew Gjertsen,Corporate,7,Advanced Customer
+JO-15280,Jas O'Carroll,Consumer,6,Advanced Customer
+AH-10195,Alan Haines,Corporate,4,Mid Level Customer
+NZ-18565,Nick Zandusky,Home Office,9,Advanced Customer
+KL-16555,Kelly Lampkin,Corporate,8,Advanced Customer
+AS-10225,Alan Schoenberger,Corporate,5,Mid Level Customer
+CR-12625,Corey Roper,Home Office,3,Mid Level Customer
+SH-20395,Shahid Hopkins,Consumer,10,Advanced Customer
+BP-11185,Ben Peterman,Corporate,9,Advanced Customer
+TS-21205,Thomas Seio,Corporate,7,Advanced Customer
+AG-10525,Andy Gerbode,Corporate,4,Mid Level Customer
+SP-20860,Sung Pak,Corporate,10,Advanced Customer
+NM-18445,Nathan Mautz,Home Office,7,Advanced Customer
+FA-14230,Frank Atkinson,Corporate,7,Advanced Customer
+GK-14620,Grace Kelly,Corporate,9,Advanced Customer
+DJ-13510,Don Jones,Corporate,8,Advanced Customer
+PO-18850,Patrick O'Brill,Consumer,11,Loyal Customer
+JL-15850,John Lucas,Consumer,6,Advanced Customer
+DB-13615,Doug Bickford,Consumer,7,Advanced Customer
+AC-10420,Alyssa Crouse,Corporate,3,Mid Level Customer
+CC-12550,Clay Cheatham,Consumer,3,Mid Level Customer
+TD-20995,Tamara Dahlen,Consumer,9,Advanced Customer
+AB-10060,Adam Bellavance,Home Office,8,Advanced Customer
+JL-15505,Jeremy Lonsdale,Consumer,6,Advanced Customer
+VB-21745,Victoria Brennan,Corporate,6,Advanced Customer
+KW-16435,Katrina Willman,Consumer,5,Mid Level Customer
+JD-16060,Julia Dunbar,Consumer,3,Mid Level Customer
+MK-17905,Michael Kennedy,Corporate,8,Advanced Customer
+GT-14755,Guy Thornton,Consumer,4,Mid Level Customer
+AG-10900,Arthur Gainer,Consumer,10,Advanced Customer
+MM-18280,Muhammed MacIntyre,Corporate,9,Advanced Customer
+AR-10405,Allen Rosenblatt,Corporate,5,Mid Level Customer
+RA-19915,Russell Applegate,Consumer,9,Advanced Customer
+AS-10285,Alejandro Savely,Corporate,6,Advanced Customer
+LA-16780,Laura Armstrong,Corporate,11,Loyal Customer
+DO-13435,Denny Ordway,Consumer,9,Advanced Customer
+DK-13225,Dean Katz,Corporate,9,Advanced Customer
+NG-18430,Nathan Gelder,Consumer,5,Mid Level Customer
+MV-18190,Mike Vittorini,Consumer,7,Advanced Customer
+JG-15115,Jack Garza,Consumer,3,Mid Level Customer
+BP-11095,Bart Pistole,Corporate,12,Loyal Customer
+VP-21730,Victor Preis,Home Office,3,Mid Level Customer
+SS-20140,Saphhira Shifley,Corporate,8,Advanced Customer
+AG-10675,Anna Gayman,Consumer,7,Advanced Customer
+LF-17185,Luke Foster,Consumer,7,Advanced Customer
+RF-19840,Roy Französisch,Consumer,7,Advanced Customer
+KH-16510,Keith Herrera,Consumer,6,Advanced Customer
+KC-16675,Kimberly Carter,Corporate,4,Mid Level Customer
+CJ-12010,Caroline Jumper,Consumer,8,Advanced Customer
+PB-19150,Philip Brown,Consumer,8,Advanced Customer
+MP-17965,Michael Paige,Corporate,9,Advanced Customer
+NF-18385,Natalie Fritzler,Consumer,6,Advanced Customer
+SD-20485,Shirley Daniels,Home Office,9,Advanced Customer
+KH-16630,Ken Heidel,Corporate,9,Advanced Customer
+RB-19795,Ross Baird,Home Office,8,Advanced Customer
+MK-18160,Mike Kennedy,Consumer,4,Mid Level Customer
+PO-19180,Philisse Overcash,Home Office,9,Advanced Customer
+BB-11545,Brenda Bowman,Corporate,9,Advanced Customer
+TB-21595,Troy Blackwell,Consumer,4,Mid Level Customer
+RB-19360,Raymond Buch,Consumer,6,Advanced Customer
+EB-13705,Ed Braxton,Corporate,9,Advanced Customer
+SC-20095,Sanjit Chand,Consumer,9,Advanced Customer
+TN-21040,Tanja Norvell,Home Office,7,Advanced Customer
+JS-15940,Joni Sundaresam,Home Office,5,Mid Level Customer
+MH-17785,Maya Herman,Corporate,7,Advanced Customer
+JP-15520,Jeremy Pistek,Consumer,7,Advanced Customer
+JE-15475,Jeremy Ellison,Consumer,6,Advanced Customer
+JG-15805,John Grady,Corporate,6,Advanced Customer
+XP-21865,Xylona Preis,Consumer,11,Loyal Customer
+EM-14065,Erin Mull,Consumer,4,Mid Level Customer
+MT-18070,Michelle Tran,Home Office,4,Mid Level Customer
+SA-20830,Sue Ann Reed,Consumer,10,Advanced Customer
+CW-11905,Carl Weiss,Home Office,6,Advanced Customer
+AJ-10960,Astrea Jones,Consumer,3,Mid Level Customer
+SS-20590,Sonia Sunley,Consumer,6,Advanced Customer
+RO-19780,Rose O'Brian,Consumer,7,Advanced Customer
+MD-17350,Maribeth Dona,Consumer,6,Advanced Customer
+MY-17380,Maribeth Yedwab,Corporate,7,Advanced Customer
+CM-12385,Christopher Martinez,Consumer,4,Mid Level Customer
+LS-17245,Lynn Smith,Consumer,6,Advanced Customer
+BN-11515,Bradley Nguyen,Consumer,5,Mid Level Customer
+DB-13210,Dean Braden,Consumer,10,Advanced Customer
+MC-17605,Matt Connell,Corporate,8,Advanced Customer
+BD-11605,Brian Dahlen,Consumer,6,Advanced Customer
+PH-18790,Patricia Hirasaki,Home Office,1,New Customer
+MG-18145,Mike Gockenbach,Consumer,4,Mid Level Customer
+KB-16240,Karen Bern,Corporate,7,Advanced Customer
+JC-15340,Jasper Cacioppo,Consumer,4,Mid Level Customer
+RL-19615,Rob Lucas,Consumer,8,Advanced Customer
+AA-10375,Allen Armold,Consumer,9,Advanced Customer
+EP-13915,Emily Phan,Consumer,17,VIP Customer
+DK-12985,Darren Koutras,Consumer,5,Mid Level Customer
+BD-11500,Bradley Drucker,Consumer,6,Advanced Customer
+LM-17065,Liz MacKendrick,Consumer,5,Mid Level Customer
+AS-10135,Adrian Shami,Home Office,2,Mid Level Customer
+BD-11320,Bill Donatelli,Consumer,12,Loyal Customer
+GT-14710,Greg Tran,Consumer,11,Loyal Customer
+AJ-10945,Ashley Jarboe,Consumer,6,Advanced Customer
+OT-18730,Olvera Toch,Consumer,5,Mid Level Customer
+LP-17080,Liz Pelletier,Consumer,4,Mid Level Customer
+CA-12775,Cynthia Arntzen,Consumer,7,Advanced Customer
+JF-15490,Jeremy Farry,Consumer,10,Advanced Customer
+FP-14320,Frank Preis,Consumer,8,Advanced Customer
+EB-13840,Ellis Ballard,Corporate,4,Mid Level Customer
+JF-15415,Jennifer Ferguson,Consumer,5,Mid Level Customer
+SF-20200,Sarah Foster,Consumer,9,Advanced Customer
+TG-21640,Trudy Glocke,Consumer,4,Mid Level Customer
+CS-11950,Carlos Soltero,Consumer,11,Loyal Customer
+CC-12145,Charles Crestani,Consumer,7,Advanced Customer
+DV-13465,Dianna Vittorini,Consumer,5,Mid Level Customer
+BD-11725,Bruce Degenhardt,Consumer,6,Advanced Customer
+ZC-21910,Zuschuss Carroll,Consumer,13,Loyal Customer
+MS-17830,Melanie Seite,Consumer,4,Mid Level Customer
+LR-16915,Lena Radford,Consumer,6,Advanced Customer
+TP-21130,Theone Pippenger,Consumer,9,Advanced Customer
+CK-12205,Chloris Kastensmidt,Consumer,13,Loyal Customer
+AS-10240,Alan Shonely,Consumer,5,Mid Level Customer
+AR-10510,Andrew Roberts,Consumer,5,Mid Level Customer
+NB-18655,Nona Balk,Corporate,9,Advanced Customer
+GD-14590,Giulietta Dortch,Corporate,4,Mid Level Customer
+CK-12595,Clytie Kelty,Consumer,11,Loyal Customer
+NG-18355,Nat Gilpin,Corporate,5,Mid Level Customer
+CA-12265,Christina Anderson,Consumer,8,Advanced Customer
+SF-20965,Sylvia Foulston,Corporate,9,Advanced Customer
+MO-17800,Meg O'Connel,Home Office,8,Advanced Customer
+AT-10735,Annie Thurman,Consumer,10,Advanced Customer
+FM-14380,Fred McMath,Consumer,9,Advanced Customer
+DJ-13420,Denny Joy,Corporate,4,Mid Level Customer
+ME-17725,Max Engle,Consumer,8,Advanced Customer
+JD-16150,Justin Deggeller,Corporate,8,Advanced Customer
+JL-15835,John Lee,Consumer,10,Advanced Customer
+SC-20305,Sean Christensen,Consumer,6,Advanced Customer
+CC-12430,Chuck Clark,Home Office,10,Advanced Customer
+AR-10825,Anthony Rawles,Corporate,8,Advanced Customer
+SR-20740,Steven Roelle,Home Office,8,Advanced Customer
+CR-12730,Craig Reiter,Consumer,4,Mid Level Customer
+EH-14125,Eugene Hildebrand,Home Office,10,Advanced Customer
+SP-20545,Sibella Parks,Corporate,6,Advanced Customer
+TH-21235,Tiffany House,Corporate,8,Advanced Customer
+RP-19390,Resi Pölking,Consumer,12,Loyal Customer
+RB-19570,Rob Beeghly,Consumer,5,Mid Level Customer
+CD-11980,Carol Darley,Consumer,3,Mid Level Customer
+DJ-13630,Doug Jacobs,Consumer,3,Mid Level Customer
+GT-14635,Grant Thornton,Corporate,3,Mid Level Customer
+MC-17845,Michael Chen,Consumer,7,Advanced Customer
+RA-19285,Ralph Arnett,Consumer,9,Advanced Customer
+NP-18325,Naresj Patel,Consumer,6,Advanced Customer
+AB-10165,Alan Barnes,Consumer,8,Advanced Customer
+JO-15550,Jesus Ocampo,Home Office,5,Mid Level Customer
+JK-15370,Jay Kimmel,Consumer,7,Advanced Customer
+BN-11470,Brad Norvell,Corporate,4,Mid Level Customer
+DP-13165,David Philippe,Consumer,2,Mid Level Customer
+TH-21550,Tracy Hopkins,Home Office,7,Advanced Customer
+AP-10915,Arthur Prichep,Consumer,10,Advanced Customer
+RS-19765,Roland Schwarz,Corporate,8,Advanced Customer
+SV-20365,Seth Vernon,Consumer,10,Advanced Customer
+CK-12325,Christine Kargatis,Home Office,5,Mid Level Customer
+RD-19810,Ross DeVincentis,Home Office,8,Advanced Customer
+MR-17545,Mathew Reese,Home Office,4,Mid Level Customer
+SC-20695,Steve Chapman,Corporate,10,Advanced Customer
+JF-15355,Jay Fein,Consumer,6,Advanced Customer
+EG-13900,Emily Grady,Consumer,5,Mid Level Customer
+DS-13030,Darrin Sayre,Home Office,4,Mid Level Customer
+PO-19195,Phillina Ober,Home Office,5,Mid Level Customer
+SS-20875,Sung Shariari,Consumer,5,Mid Level Customer
+PB-19105,Peter Bühler,Consumer,4,Mid Level Customer
+RF-19735,Roland Fjeld,Consumer,7,Advanced Customer
+YC-21895,Yoseph Carroll,Corporate,5,Mid Level Customer
+DC-13285,Debra Catini,Consumer,5,Mid Level Customer
+CP-12340,Christine Phan,Corporate,7,Advanced Customer
+BF-11020,Barry Französisch,Corporate,8,Advanced Customer
+LH-17020,Lisa Hazard,Consumer,4,Mid Level Customer
+CS-12250,Chris Selesnick,Corporate,12,Loyal Customer
+AJ-10795,Anthony Johnson,Corporate,7,Advanced Customer
+BV-11245,Benjamin Venier,Corporate,5,Mid Level Customer
+DL-12865,Dan Lawera,Consumer,7,Advanced Customer
+BM-11785,Bryan Mills,Consumer,10,Advanced Customer
+LT-17110,Liz Thompson,Consumer,8,Advanced Customer
+JK-15730,Joe Kamberova,Consumer,9,Advanced Customer
+ES-14020,Erica Smith,Consumer,5,Mid Level Customer
+RH-19495,Rick Hansen,Consumer,5,Mid Level Customer
+CD-11920,Carlos Daly,Consumer,5,Mid Level Customer
+HW-14935,Helen Wasserman,Corporate,7,Advanced Customer
+MC-18130,Mike Caudle,Corporate,5,Mid Level Customer
+GM-14440,Gary McGarr,Consumer,7,Advanced Customer
+PJ-19015,Pauline Johnson,Consumer,6,Advanced Customer
+BW-11110,Bart Watters,Corporate,8,Advanced Customer
+TR-21325,Toby Ritter,Consumer,5,Mid Level Customer
+PG-18820,Patrick Gardner,Consumer,13,Loyal Customer
+JL-15175,James Lanier,Home Office,5,Mid Level Customer
+BM-11650,Brian Moss,Corporate,11,Loyal Customer
+EM-14095,Eudokia Martin,Corporate,4,Mid Level Customer
+AF-10885,Art Foster,Consumer,4,Mid Level Customer
+GA-14725,Guy Armstrong,Consumer,11,Loyal Customer
+CK-12760,Cyma Kinney,Corporate,9,Advanced Customer
+DP-13105,Dave Poirier,Corporate,8,Advanced Customer
+BK-11260,Berenike Kampe,Consumer,6,Advanced Customer
+SJ-20125,Sanjit Jacobs,Home Office,12,Loyal Customer
+CM-12445,Chuck Magee,Consumer,3,Mid Level Customer
+AJ-10780,Anthony Jacobs,Corporate,7,Advanced Customer
+LS-16945,Linda Southworth,Corporate,6,Advanced Customer
+GP-14740,Guy Phonely,Corporate,2,Mid Level Customer
+PK-18910,Paul Knutson,Home Office,2,Mid Level Customer
+SM-20005,Sally Matthias,Consumer,4,Mid Level Customer
+AG-10765,Anthony Garverick,Home Office,4,Mid Level Customer
+PM-19135,Peter McVee,Home Office,4,Mid Level Customer
+LL-16840,Lauren Leatherbury,Consumer,5,Mid Level Customer
+JS-15595,Jill Stevenson,Corporate,4,Mid Level Customer
+EL-13735,Ed Ludwig,Home Office,2,Mid Level Customer
+PC-18745,Pamela Coakley,Corporate,4,Mid Level Customer
+HL-15040,Hunter Lopez,Consumer,6,Advanced Customer
+MS-17365,Maribeth Schnelling,Consumer,10,Advanced Customer
+GB-14530,George Bell,Corporate,11,Loyal Customer
+JR-16210,Justin Ritter,Corporate,5,Mid Level Customer
+BE-11335,Bill Eplett,Home Office,5,Mid Level Customer
+SC-20050,Sample Company A,Home Office,9,Advanced Customer
+RW-19630,Rob Williams,Corporate,9,Advanced Customer
+SE-20110,Sanjit Engle,Consumer,11,Loyal Customer
+AH-10075,Adam Hart,Corporate,10,Advanced Customer
+JM-15535,Jessica Myrick,Consumer,7,Advanced Customer
+JJ-15760,Joel Jenkins,Home Office,2,Mid Level Customer
+RK-19300,Ralph Kennedy,Consumer,3,Mid Level Customer
+CG-12040,Catherine Glotzbach,Home Office,6,Advanced Customer
+RP-19270,Rachel Payne,Corporate,4,Mid Level Customer
+KC-16255,Karen Carlisle,Corporate,6,Advanced Customer
+KH-16360,Katherine Hughes,Consumer,6,Advanced Customer
+GH-14665,Greg Hansen,Consumer,2,Mid Level Customer
+SW-20275,Scott Williamson,Consumer,6,Advanced Customer
+JA-15970,Joseph Airdo,Consumer,8,Advanced Customer
+DL-12925,Daniel Lacy,Consumer,6,Advanced Customer
+LW-16990,Lindsay Williams,Corporate,6,Advanced Customer
+TB-21190,Thomas Brumley,Home Office,4,Mid Level Customer
+BS-11800,Bryan Spruell,Home Office,2,Mid Level Customer
+RW-19690,Robert Waldorf,Consumer,5,Mid Level Customer
+TZ-21580,Tracy Zic,Consumer,4,Mid Level Customer
+AS-10630,Ann Steele,Home Office,7,Advanced Customer
+TS-21340,Toby Swindell,Consumer,5,Mid Level Customer
+SL-20155,Sara Luxemburg,Home Office,6,Advanced Customer
+MW-18235,Mitch Willingham,Corporate,2,Mid Level Customer
+RD-19585,Rob Dowd,Consumer,9,Advanced Customer
+RA-19945,Ryan Akin,Consumer,5,Mid Level Customer
+MT-17815,Meg Tillman,Consumer,6,Advanced Customer
+VG-21790,Vivek Gonzalez,Consumer,6,Advanced Customer
+JS-15880,John Stevenson,Consumer,5,Mid Level Customer
+KM-16225,Kalyca Meade,Corporate,6,Advanced Customer
+HR-14770,Hallie Redmond,Home Office,4,Mid Level Customer
+DE-13255,Deanra Eno,Home Office,5,Mid Level Customer
+AG-10390,Allen Goldenen,Consumer,5,Mid Level Customer
+JJ-15445,Jennifer Jackson,Consumer,5,Mid Level Customer
+JH-15430,Jennifer Halladay,Consumer,4,Mid Level Customer
+RD-19660,Robert Dilbeck,Home Office,4,Mid Level Customer
+MO-17500,Mary O'Rourke,Consumer,4,Mid Level Customer
+NS-18640,Noel Staavos,Corporate,12,Loyal Customer
+DG-13300,Deirdre Greer,Corporate,5,Mid Level Customer
+NF-18595,Nicole Fjeld,Home Office,7,Advanced Customer
+MG-17650,Matthew Grinstein,Home Office,7,Advanced Customer
+TS-21160,Theresa Swint,Corporate,6,Advanced Customer
+BD-11620,Brian DeCherney,Consumer,6,Advanced Customer
+CM-12160,Charles McCrossin,Consumer,6,Advanced Customer
+SN-20560,Skye Norling,Home Office,6,Advanced Customer
+EH-14005,Erica Hernandez,Home Office,7,Advanced Customer
+FO-14305,Frank Olsen,Consumer,10,Advanced Customer
+MS-17710,Maurice Satty,Consumer,6,Advanced Customer
+CC-12100,Chad Cunningham,Home Office,5,Mid Level Customer
+DW-13540,Don Weiss,Consumer,5,Mid Level Customer
+BT-11395,Bill Tyler,Corporate,6,Advanced Customer
+CY-12745,Craig Yedwab,Corporate,7,Advanced Customer
+BT-11485,Brad Thomas,Home Office,2,Mid Level Customer
+PS-19045,Penelope Sewall,Home Office,7,Advanced Customer
+PV-18985,Paul Van Hugh,Home Office,5,Mid Level Customer
+NM-18520,Neoma Murray,Consumer,10,Advanced Customer
+DL-13495,Dionis Lloyd,Corporate,8,Advanced Customer
+CS-12355,Christine Sundaresam,Consumer,11,Loyal Customer
+FH-14275,Frank Hawley,Corporate,10,Advanced Customer
+NC-18340,Nat Carroll,Consumer,5,Mid Level Customer
+AA-10315,Alex Avila,Consumer,5,Mid Level Customer
+LT-16765,Larry Tron,Consumer,3,Mid Level Customer
+AP-10720,Anne Pryor,Home Office,6,Advanced Customer
+PM-18940,Paul MacIntyre,Consumer,3,Mid Level Customer
+AT-10435,Alyssa Tate,Home Office,5,Mid Level Customer
+CA-12055,Cathy Armstrong,Home Office,5,Mid Level Customer
+HR-14830,Harold Ryan,Corporate,7,Advanced Customer
+BT-11530,Bradley Talbott,Home Office,5,Mid Level Customer
+LH-16750,Larry Hughes,Consumer,3,Mid Level Customer
+SW-20755,Steven Ward,Corporate,2,Mid Level Customer
+SP-20620,Stefania Perrino,Corporate,9,Advanced Customer
+BF-11170,Ben Ferrer,Home Office,11,Loyal Customer
+KT-16480,Kean Thornton,Consumer,10,Advanced Customer
+BG-11695,Brooke Gillingham,Corporate,6,Advanced Customer
+GM-14680,Greg Matthias,Consumer,6,Advanced Customer
+EJ-14155,Eva Jacobs,Consumer,5,Mid Level Customer
+NP-18700,Nora Preis,Consumer,7,Advanced Customer
+MH-18115,Mick Hernandez,Home Office,9,Advanced Customer
+JR-15700,Jocasta Rupert,Consumer,1,New Customer
+SM-20950,Suzanne McNair,Corporate,11,Loyal Customer
+CC-12220,Chris Cortes,Consumer,11,Loyal Customer
+PF-19225,Phillip Flathmann,Consumer,5,Mid Level Customer
+DC-12850,Dan Campbell,Consumer,9,Advanced Customer
+BD-11770,Bryan Davis,Consumer,6,Advanced Customer
+GM-14500,Gene McClure,Consumer,10,Advanced Customer
+TB-21355,Todd Boyes,Corporate,5,Mid Level Customer
+JH-16180,Justin Hirsh,Consumer,4,Mid Level Customer
+EB-13975,Erica Bern,Corporate,4,Mid Level Customer
+QJ-19255,Quincy Jones,Corporate,9,Advanced Customer
+TC-21535,Tracy Collins,Home Office,7,Advanced Customer
+CS-12460,Chuck Sachs,Consumer,2,Mid Level Customer
+HG-14965,Henry Goldwyn,Corporate,12,Loyal Customer
+LW-16825,Laurel Workman,Corporate,5,Mid Level Customer
+MC-17575,Matt Collins,Consumer,8,Advanced Customer
+LP-17095,Liz Preis,Consumer,6,Advanced Customer
+EB-14170,Evan Bailliet,Consumer,6,Advanced Customer
+GZ-14545,George Zrebassa,Corporate,4,Mid Level Customer
+CP-12085,Cathy Prescott,Corporate,8,Advanced Customer
+FG-14260,Frank Gastineau,Home Office,7,Advanced Customer
+LD-17005,Lisa DeCherney,Consumer,4,Mid Level Customer
+AB-10255,Alejandro Ballentine,Home Office,9,Advanced Customer
+MN-17935,Michael Nguyen,Consumer,6,Advanced Customer
+JR-15670,Jim Radford,Consumer,2,Mid Level Customer
+JF-15190,Jamie Frazer,Consumer,6,Advanced Customer
+CM-12115,Chad McGuire,Consumer,4,Mid Level Customer
+AS-10045,Aaron Smayling,Corporate,7,Advanced Customer
+BP-11290,Beth Paige,Consumer,7,Advanced Customer
+ND-18370,Natalie DeCherney,Consumer,9,Advanced Customer
+LB-16735,Larry Blacks,Consumer,3,Mid Level Customer
+KT-16465,Kean Takahito,Consumer,7,Advanced Customer
+HM-14860,Harry Marie,Corporate,10,Advanced Customer
+AB-10600,Ann Blume,Corporate,4,Mid Level Customer
+SZ-20035,Sam Zeldin,Home Office,11,Loyal Customer
+MG-17890,Michael Granlund,Home Office,9,Advanced Customer
+JK-16120,Julie Kriz,Home Office,10,Advanced Customer
+PP-18955,Paul Prost,Home Office,10,Advanced Customer
+YS-21880,Yana Sorensen,Corporate,8,Advanced Customer
+KM-16375,Katherine Murray,Home Office,8,Advanced Customer
+AB-10105,Adrian Barton,Consumer,10,Advanced Customer
+HA-14905,Helen Abelman,Consumer,7,Advanced Customer
+BT-11305,Beth Thompson,Home Office,5,Mid Level Customer
+SV-20815,Stuart Van,Corporate,4,Mid Level Customer
+RW-19540,Rick Wilson,Corporate,7,Advanced Customer
+DK-12835,Damala Kotsonis,Corporate,12,Loyal Customer
+ST-20530,Shui Tom,Consumer,7,Advanced Customer
+MM-17920,Michael Moore,Consumer,10,Advanced Customer
+PW-19030,Pauline Webber,Corporate,10,Advanced Customer
+SC-20440,Shaun Chance,Corporate,7,Advanced Customer
+TS-21085,Thais Sissman,Consumer,2,Mid Level Customer
+MC-17425,Mark Cousins,Corporate,5,Mid Level Customer
+ME-17320,Maria Etezadi,Home Office,10,Advanced Customer
+NH-18610,Nicole Hansen,Corporate,6,Advanced Customer
+MB-18085,Mick Brown,Consumer,7,Advanced Customer
+KD-16495,Keith Dawkins,Corporate,12,Loyal Customer
+KN-16390,Katherine Nockton,Corporate,8,Advanced Customer
+NP-18685,Nora Pelletier,Home Office,5,Mid Level Customer
+CS-12505,Cindy Stewart,Consumer,6,Advanced Customer
+MS-17770,Maxwell Schwartz,Consumer,9,Advanced Customer
+CM-12655,Corinna Mitchell,Home Office,5,Mid Level Customer
+Co-12640,Corey-Lock,Consumer,5,Mid Level Customer
+TS-21370,Todd Sumrall,Corporate,6,Advanced Customer
+JW-15220,Jane Waco,Corporate,6,Advanced Customer
+JD-15790,John Dryer,Consumer,5,Mid Level Customer
+PC-19000,Pauline Chand,Home Office,2,Mid Level Customer
+AR-10540,Andy Reiter,Consumer,6,Advanced Customer
+AI-10855,Arianne Irving,Consumer,10,Advanced Customer
+TB-21400,Tom Boeckenhauer,Consumer,6,Advanced Customer
+PL-18925,Paul Lucas,Home Office,5,Mid Level Customer
+GH-14425,Gary Hwang,Consumer,4,Mid Level Customer
+MP-18175,Mike Pelletier,Home Office,8,Advanced Customer
+JM-15655,Jim Mitchum,Corporate,5,Mid Level Customer
+CL-11890,Carl Ludwig,Consumer,4,Mid Level Customer
+DB-13270,Deborah Brumfield,Home Office,8,Advanced Customer
+IG-15085,Ivan Gibson,Consumer,4,Mid Level Customer
+BO-11425,Bobby Odegard,Consumer,2,Mid Level Customer
+AB-10150,Aimee Bixby,Consumer,5,Mid Level Customer
+JW-16075,Julia West,Consumer,4,Mid Level Customer
+EB-13750,Edward Becker,Corporate,10,Advanced Customer
+SG-20470,Sheri Gordon,Consumer,8,Advanced Customer
+CM-12190,Charlotte Melton,Consumer,6,Advanced Customer
+AW-10840,Anthony Witt,Consumer,4,Mid Level Customer
+MC-18100,Mick Crebagga,Consumer,10,Advanced Customer
+TT-21460,Tonja Turnell,Home Office,7,Advanced Customer
+VG-21805,Vivek Grady,Corporate,4,Mid Level Customer
+MY-18295,Muhammed Yedwab,Corporate,10,Advanced Customer
+RD-19480,Rick Duston,Consumer,8,Advanced Customer
+DP-13390,Dennis Pardue,Home Office,9,Advanced Customer
+ML-17395,Marina Lichtenstein,Corporate,9,Advanced Customer
+JC-15385,Jenna Caffey,Consumer,1,New Customer
+JG-15160,James Galang,Consumer,11,Loyal Customer
+MC-17275,Marc Crier,Consumer,8,Advanced Customer
+NW-18400,Natalie Webber,Consumer,7,Advanced Customer
+TB-21280,Toby Braunhardt,Consumer,6,Advanced Customer
+BS-11380,Bill Stewart,Corporate,5,Mid Level Customer
+HH-15010,Hilary Holden,Corporate,2,Mid Level Customer
+CD-12280,Christina DeMoss,Consumer,2,Mid Level Customer
+TH-21100,Thea Hendricks,Consumer,5,Mid Level Customer
+MM-18055,Michelle Moray,Consumer,8,Advanced Customer
+NS-18505,Neola Schneider,Consumer,4,Mid Level Customer
+RB-19645,Robert Barroso,Corporate,5,Mid Level Customer
+SW-20455,Shaun Weien,Consumer,6,Advanced Customer
+EB-13930,Eric Barreto,Consumer,5,Mid Level Customer
+PS-18760,Pamela Stobb,Consumer,6,Advanced Customer
+HF-14995,Herbert Flentye,Consumer,7,Advanced Customer
+HZ-14950,Henia Zydlo,Consumer,5,Mid Level Customer
+CD-12790,Cynthia Delaney,Home Office,5,Mid Level Customer
+JK-15205,Jamie Kunitz,Consumer,4,Mid Level Customer
+FM-14215,Filia McAdams,Corporate,10,Advanced Customer
+ED-13885,Emily Ducich,Home Office,8,Advanced Customer
+DA-13450,Dianna Arnett,Home Office,4,Mid Level Customer
+JW-15955,Joni Wasserman,Consumer,6,Advanced Customer
+RM-19375,Raymond Messe,Consumer,6,Advanced Customer
+ML-17755,Max Ludwig,Home Office,7,Advanced Customer
+CC-12685,Craig Carroll,Consumer,4,Mid Level Customer
+JE-15610,Jim Epp,Corporate,7,Advanced Customer
+RP-19855,Roy Phan,Corporate,7,Advanced Customer
+TB-21175,Thomas Boland,Corporate,4,Mid Level Customer
+BE-11455,Brad Eason,Home Office,5,Mid Level Customer
+JF-15565,Jill Fjeld,Consumer,8,Advanced Customer
+PB-19210,Phillip Breyer,Corporate,2,Mid Level Customer
+BT-11680,Brian Thompson,Consumer,7,Advanced Customer
+JL-15235,Janet Lee,Consumer,5,Mid Level Customer
+CH-12070,Cathy Hwang,Home Office,3,Mid Level Customer
+ND-18460,Neil Ducich,Corporate,6,Advanced Customer
+BF-10975,Barbara Fisher,Corporate,7,Advanced Customer
+KH-16330,Katharine Harms,Corporate,8,Advanced Customer
+GW-14605,Giulietta Weimer,Consumer,7,Advanced Customer
+NC-18625,Noah Childs,Corporate,5,Mid Level Customer
+ME-18010,Michelle Ellison,Corporate,4,Mid Level Customer
+BP-11230,Benjamin Patterson,Consumer,5,Mid Level Customer
+JC-15775,John Castell,Consumer,9,Advanced Customer
+AS-10090,Adam Shillingsburg,Consumer,9,Advanced Customer
+AC-10450,Amy Cox,Consumer,7,Advanced Customer
+MD-17860,Michael Dominguez,Corporate,5,Mid Level Customer
+DB-13660,Duane Benoit,Consumer,7,Advanced Customer
+EH-13990,Erica Hackney,Consumer,6,Advanced Customer
+EH-13765,Edward Hooks,Corporate,10,Advanced Customer
+SC-20230,Scot Coram,Corporate,4,Mid Level Customer
+JE-15715,Joe Elijah,Consumer,10,Advanced Customer
+AC-10615,Ann Chong,Corporate,5,Mid Level Customer
+JD-16015,Joy Daniels,Consumer,6,Advanced Customer
+CB-12415,Christy Brittain,Consumer,8,Advanced Customer
+JS-16030,Joy Smith,Consumer,6,Advanced Customer
+LW-17215,Luke Weiss,Consumer,7,Advanced Customer
+SC-20800,Stuart Calhoun,Consumer,4,Mid Level Customer
+AM-10705,Anne McFarland,Consumer,8,Advanced Customer
+RH-19510,Rick Huthwaite,Home Office,6,Advanced Customer
+CT-11995,Carol Triggs,Consumer,8,Advanced Customer
+MC-17590,Matt Collister,Corporate,6,Advanced Customer
+CC-12610,Corey Catlett,Corporate,7,Advanced Customer
+KA-16525,Kelly Andreada,Consumer,7,Advanced Customer
+TC-20980,Tamara Chand,Corporate,5,Mid Level Customer
+BF-11080,Bart Folk,Consumer,3,Mid Level Customer
+MM-17260,Magdelene Morse,Consumer,4,Mid Level Customer
+AH-10120,Adrian Hane,Home Office,7,Advanced Customer
+BW-11200,Ben Wallace,Consumer,6,Advanced Customer
+SW-20245,Scot Wooten,Consumer,7,Advanced Customer
+BS-11665,Brian Stugart,Consumer,3,Mid Level Customer
+RF-19345,Randy Ferguson,Corporate,8,Advanced Customer
+WB-21850,William Brown,Consumer,10,Advanced Customer
+TB-21625,Trudy Brown,Consumer,9,Advanced Customer
+AF-10870,Art Ferguson,Consumer,7,Advanced Customer
+RB-19435,Richard Bierner,Consumer,7,Advanced Customer
+KF-16285,Karen Ferguson,Home Office,7,Advanced Customer
+JH-15820,John Huston,Consumer,6,Advanced Customer
+IL-15100,Ivan Liston,Consumer,7,Advanced Customer
+PB-18805,Patrick Bzostek,Home Office,3,Mid Level Customer
+RH-19600,Rob Haberlin,Consumer,3,Mid Level Customer
+AW-10930,Arthur Wiediger,Home Office,7,Advanced Customer
+ML-17410,Maris LaWare,Consumer,5,Mid Level Customer
+DB-13555,Dorothy Badders,Corporate,7,Advanced Customer
+MH-17620,Matt Hagelstein,Corporate,4,Mid Level Customer
+DK-13375,Dennis Kane,Consumer,8,Advanced Customer
+BT-11440,Bobby Trafton,Consumer,4,Mid Level Customer
+DB-13405,Denny Blanton,Consumer,4,Mid Level Customer
+TG-21310,Toby Gnade,Consumer,5,Mid Level Customer
+BF-11005,Barry Franz,Home Office,4,Mid Level Customer
+JM-16195,Justin MacKendrick,Consumer,10,Advanced Customer
+MZ-17335,Maria Zettner,Home Office,4,Mid Level Customer
+MW-18220,Mitch Webber,Consumer,7,Advanced Customer
+MV-17485,Mark Van Huff,Consumer,9,Advanced Customer
+SM-20320,Sean Miller,Home Office,5,Mid Level Customer
+TP-21415,Tom Prescott,Consumer,5,Mid Level Customer
+JK-15625,Jim Karlsson,Consumer,7,Advanced Customer
+PJ-18835,Patrick Jones,Corporate,8,Advanced Customer
+RS-19420,Ricardo Sperren,Corporate,5,Mid Level Customer
+SV-20935,Susan Vittorini,Consumer,8,Advanced Customer
+BC-11125,Becky Castell,Home Office,9,Advanced Customer
+EM-13825,Elizabeth Moffitt,Corporate,8,Advanced Customer
+BM-11575,Brendan Murry,Corporate,6,Advanced Customer
+KN-16705,Kristina Nunn,Home Office,7,Advanced Customer
+KW-16570,Kelly Williams,Consumer,4,Mid Level Customer
+SC-20260,Scott Cohen,Corporate,8,Advanced Customer
+CV-12295,Christina VanderZanden,Consumer,5,Mid Level Customer
+SG-20605,Speros Goranitis,Consumer,5,Mid Level Customer
+TM-21010,Tamara Manning,Consumer,7,Advanced Customer
+EM-13810,Eleni McCrary,Corporate,5,Mid Level Customer
+ML-18040,Michelle Lonsdale,Corporate,3,Mid Level Customer
+CR-12580,Clay Rozendal,Home Office,4,Mid Level Customer
+AZ-10750,Annie Zypern,Consumer,6,Advanced Customer
+PW-19240,Pierre Wener,Consumer,7,Advanced Customer
+SC-20380,Shahid Collister,Consumer,9,Advanced Customer
+CM-11935,Carlos Meador,Consumer,2,Mid Level Customer
+GM-14695,Greg Maxwell,Corporate,3,Mid Level Customer
+TB-21250,Tim Brockman,Consumer,7,Advanced Customer
+JM-15865,John Murray,Consumer,7,Advanced Customer
+SC-20575,Sonia Cooley,Consumer,4,Mid Level Customer
+LS-17200,Luke Schmidt,Corporate,6,Advanced Customer
+RR-19315,Ralph Ritter,Consumer,2,Mid Level Customer
+DB-12910,Daniel Byrd,Home Office,8,Advanced Customer
+TT-21220,Thomas Thornton,Consumer,8,Advanced Customer
+LO-17170,Lori Olson,Corporate,5,Mid Level Customer
+KD-16615,Ken Dana,Corporate,4,Mid Level Customer
+NB-18580,Nicole Brennan,Corporate,2,Mid Level Customer
+BD-11635,Brian Derr,Consumer,3,Mid Level Customer
+CM-12235,Chris McAfee,Consumer,5,Mid Level Customer
+EN-13780,Edward Nazzal,Consumer,4,Mid Level Customer
+KN-16450,Kean Nguyen,Corporate,5,Mid Level Customer
+BO-11350,Bill Overfelt,Corporate,5,Mid Level Customer
+AG-10300,Aleksandra Gannaway,Corporate,4,Mid Level Customer
+MC-17635,Matthew Clasen,Corporate,4,Mid Level Customer
+TA-21385,Tom Ashbrook,Home Office,4,Mid Level Customer
+JF-15295,Jason Fortune-,Consumer,5,Mid Level Customer
+TT-21265,Tim Taslimi,Corporate,3,Mid Level Customer
+SB-20170,Sarah Bern,Consumer,3,Mid Level Customer
+CL-12700,Craig Leslie,Home Office,4,Mid Level Customer
+HG-15025,Hunter Glantz,Consumer,7,Advanced Customer
+NL-18310,Nancy Lomonaco,Home Office,4,Mid Level Customer
+RR-19525,Rick Reed,Corporate,6,Advanced Customer
+TC-21295,Toby Carlisle,Consumer,8,Advanced Customer
+SV-20785,Stewart Visinsky,Consumer,9,Advanced Customer
+BE-11410,Bobby Elias,Consumer,5,Mid Level Customer
+SC-20680,Steve Carroll,Home Office,6,Advanced Customer
+DF-13135,David Flashing,Consumer,3,Mid Level Customer
+FH-14350,Fred Harton,Consumer,4,Mid Level Customer
+MS-17530,MaryBeth Skach,Consumer,4,Mid Level Customer
+RH-19555,Ritsa Hightower,Consumer,2,Mid Level Customer
+GA-14515,George Ashbrook,Consumer,5,Mid Level Customer
+JP-16135,Julie Prescott,Home Office,9,Advanced Customer
+Dp-13240,Dean percer,Home Office,11,Loyal Customer
+MO-17950,Michael Oakman,Consumer,2,Mid Level Customer
+DL-13330,Denise Leinenbach,Consumer,4,Mid Level Customer
+MH-18025,Michelle Huthwaite,Consumer,5,Mid Level Customer
+DR-12940,Daniel Raglin,Home Office,8,Advanced Customer
+DM-13015,Darrin Martin,Consumer,7,Advanced Customer
+CA-11965,Carol Adams,Corporate,6,Advanced Customer
+AC-10660,Anna Chung,Consumer,5,Mid Level Customer
+DM-13345,Denise Monton,Corporate,8,Advanced Customer
+VF-21715,Vicky Freymann,Home Office,5,Mid Level Customer
+CC-12370,Christopher Conant,Consumer,5,Mid Level Customer
+BF-11275,Beth Fritzler,Corporate,3,Mid Level Customer
+HG-14845,Harry Greene,Consumer,5,Mid Level Customer
+BP-11155,Becky Pak,Consumer,6,Advanced Customer
+EM-14140,Eugene Moren,Home Office,6,Advanced Customer
+MA-17995,Michelle Arnett,Home Office,6,Advanced Customer
+AY-10555,Andy Yotov,Corporate,4,Mid Level Customer
+GB-14575,Giulietta Baptist,Consumer,5,Mid Level Customer
+JB-16045,Julia Barnett,Home Office,5,Mid Level Customer
+MG-17875,Michael Grace,Home Office,5,Mid Level Customer
+SR-20425,Sharelle Roach,Home Office,5,Mid Level Customer
+JB-16000,Joy Bell-,Consumer,7,Advanced Customer
+DM-12955,Dario Medina,Corporate,7,Advanced Customer
+TC-21475,Tony Chapman,Home Office,9,Advanced Customer
+SW-20350,Sean Wendt,Home Office,3,Mid Level Customer
+RE-19450,Richard Eichhorn,Consumer,4,Mid Level Customer
+BF-11215,Benjamin Farhat,Home Office,4,Mid Level Customer
+KB-16405,Katrina Bavinger,Home Office,3,Mid Level Customer
+JG-15310,Jason Gross,Corporate,6,Advanced Customer
+EC-14050,Erin Creighton,Consumer,5,Mid Level Customer
+EB-14110,Eugene Barchas,Consumer,6,Advanced Customer
+JP-15460,Jennifer Patt,Corporate,7,Advanced Customer
+CS-11845,Cari Sayre,Corporate,5,Mid Level Customer
+GH-14410,Gary Hansen,Home Office,9,Advanced Customer
+PT-19090,Pete Takahito,Consumer,3,Mid Level Customer
+JL-15130,Jack Lebron,Consumer,6,Advanced Customer
+AH-10030,Aaron Hawkins,Corporate,7,Advanced Customer
+CC-12475,Cindy Chapman,Consumer,9,Advanced Customer
+DW-13195,David Wiener,Corporate,6,Advanced Customer
+SJ-20215,Sarah Jordon,Consumer,6,Advanced Customer
+BG-11740,Bruce Geld,Consumer,6,Advanced Customer
+LB-16795,Laurel Beltran,Home Office,8,Advanced Customer
+CM-11815,Candace McMahon,Corporate,6,Advanced Customer
+EH-14185,Evan Henry,Consumer,6,Advanced Customer
+TS-21505,Tony Sayre,Consumer,6,Advanced Customer
+PR-18880,Patrick Ryan,Consumer,5,Mid Level Customer
+LC-17050,Liz Carlisle,Consumer,5,Mid Level Customer
+CS-12490,Cindy Schnelling,Corporate,4,Mid Level Customer
+DH-13075,Dave Hallsten,Corporate,5,Mid Level Customer
+JO-15145,Jack O'Briant,Corporate,9,Advanced Customer
+AH-10690,Anna Häberlin,Corporate,12,Loyal Customer
+HJ-14875,Heather Jas,Home Office,5,Mid Level Customer
+MH-17455,Mark Hamilton,Consumer,7,Advanced Customer
+RD-19930,Russell D'Ascenzo,Consumer,4,Mid Level Customer
+SC-20020,Sam Craven,Consumer,5,Mid Level Customer
+SU-20665,Stephanie Ulpright,Home Office,7,Advanced Customer
+FC-14335,Fred Chung,Corporate,7,Advanced Customer
+RB-19330,Randy Bradley,Consumer,2,Mid Level Customer
+NC-18535,Nick Crebassa,Corporate,7,Advanced Customer
+DB-12970,Darren Budd,Corporate,4,Mid Level Customer
+MF-17665,Maureen Fritzler,Corporate,5,Mid Level Customer
+RM-19750,Roland Murray,Consumer,1,New Customer
+VM-21835,Vivian Mathis,Consumer,5,Mid Level Customer
+EJ-13720,Ed Jacobs,Consumer,4,Mid Level Customer
+NC-18415,Nathan Cano,Consumer,6,Advanced Customer
+LS-17230,Lycoris Saunders,Consumer,3,Mid Level Customer
+KE-16420,Katrina Edelman,Corporate,7,Advanced Customer
+DH-13675,Duane Huffman,Home Office,4,Mid Level Customer
+PF-19120,Peter Fuller,Consumer,4,Mid Level Customer
+VT-21700,Valerie Takahito,Home Office,2,Mid Level Customer
+MG-17695,Maureen Gnade,Consumer,3,Mid Level Customer
+SP-20920,Susan Pistek,Consumer,6,Advanced Customer
+CS-12175,Charles Sheldon,Corporate,5,Mid Level Customer
+DK-12895,Dana Kaydos,Consumer,5,Mid Level Customer
+KM-16660,Khloe Miller,Consumer,5,Mid Level Customer
+AA-10645,Anna Andreadi,Consumer,6,Advanced Customer
+DD-13570,Dorothy Dickinson,Consumer,6,Advanced Customer
+AH-10465,Amy Hunt,Consumer,5,Mid Level Customer
+TP-21565,Tracy Poddar,Corporate,4,Mid Level Customer
+EK-13795,Eileen Kiefer,Home Office,4,Mid Level Customer
+CR-12820,Cyra Reiten,Home Office,3,Mid Level Customer
+SG-20890,Susan Gilcrest,Corporate,3,Mid Level Customer
+AH-10585,Angele Hood,Consumer,4,Mid Level Customer
+NF-18475,Neil Französisch,Home Office,4,Mid Level Customer
+BS-11365,Bill Shonely,Corporate,5,Mid Level Customer
+SH-20635,Stefanie Holloman,Corporate,2,Mid Level Customer
+RD-19720,Roger Demir,Consumer,10,Advanced Customer
+AG-10330,Alex Grayson,Consumer,5,Mid Level Customer
+GR-14560,Georgia Rosenberg,Corporate,2,Mid Level Customer
+VS-21820,Vivek Sundaresam,Consumer,4,Mid Level Customer
+TM-21490,Tony Molinari,Consumer,3,Mid Level Customer
+TS-21430,Tom Stivers,Corporate,5,Mid Level Customer
+DB-13360,Dennis Bolton,Home Office,5,Mid Level Customer
+NR-18550,Nick Radford,Consumer,5,Mid Level Customer
+CS-11860,Cari Schnelling,Consumer,6,Advanced Customer
+MF-18250,Monica Federle,Corporate,5,Mid Level Customer
+LW-17125,Liz Willingham,Consumer,3,Mid Level Customer
+AR-10345,Alex Russell,Corporate,4,Mid Level Customer
+KS-16300,Karen Seio,Corporate,3,Mid Level Customer
+AB-10015,Aaron Bergman,Consumer,3,Mid Level Customer
+LR-17035,Lisa Ryan,Corporate,5,Mid Level Customer
+SS-20410,Shahid Shariari,Consumer,6,Advanced Customer
+JM-15580,Jill Matthias,Consumer,5,Mid Level Customer
+JK-15325,Jason Klamczynski,Corporate,3,Mid Level Customer
+DM-13525,Don Miller,Corporate,3,Mid Level Customer
+ML-18265,Muhammed Lee,Consumer,2,Mid Level Customer
+MH-17290,Marc Harrigan,Home Office,5,Mid Level Customer
+FC-14245,Frank Carlisle,Home Office,7,Advanced Customer
+TH-21115,Thea Hudgings,Corporate,4,Mid Level Customer
+JK-16090,Juliana Krohn,Consumer,3,Mid Level Customer
+SB-20185,Sarah Brown,Consumer,6,Advanced Customer
+BG-11035,Barry Gonzalez,Consumer,8,Advanced Customer
+BW-11065,Barry Weirich,Consumer,3,Mid Level Customer
+MG-18205,Mitch Gastineau,Corporate,1,New Customer
+DO-13645,Doug O'Connell,Consumer,7,Advanced Customer
+BP-11050,Barry Pond,Corporate,5,Mid Level Customer
+TS-21655,Trudy Schmidt,Consumer,5,Mid Level Customer
+EM-14200,Evan Minnotte,Home Office,3,Mid Level Customer
+AO-10810,Anthony O'Donnell,Corporate,1,New Customer
+MH-17440,Mark Haberlin,Corporate,4,Mid Level Customer
+SS-20515,Shirley Schmidt,Home Office,3,Mid Level Customer
+LD-16855,Lela Donovan,Corporate,1,New Customer
+VP-21760,Victoria Pisteka,Corporate,7,Advanced Customer
+TC-21145,Theresa Coyne,Corporate,1,New Customer
+IM-15055,Ionia McGrath,Consumer,2,Mid Level Customer
+AR-10570,Anemone Ratner,Consumer,1,New Customer
+CM-12715,Craig Molinari,Corporate,4,Mid Level Customer
+FW-14395,Fred Wasserman,Corporate,3,Mid Level Customer
+LC-16960,Lindsay Castell,Home Office,4,Mid Level Customer
+HE-14800,Harold Engle,Corporate,3,Mid Level Customer
+BD-11560,Brendan Dodson,Home Office,2,Mid Level Customer
+HD-14785,Harold Dahlen,Home Office,3,Mid Level Customer
+CJ-11875,Carl Jackson,Corporate,1,New Customer
+RS-19870,Roy Skaria,Home Office,2,Mid Level Customer
+SC-20845,Sung Chung,Consumer,1,New Customer
+RE-19405,Ricardo Emerson,Consumer,1,New Customer
+SM-20905,Susan MacKendrick,Consumer,1,New Customer

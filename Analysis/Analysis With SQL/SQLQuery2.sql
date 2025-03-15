@@ -1,0 +1,173 @@
+﻿--1️ Sales Performance Analysis
+--Total Sales Over Time (Daily, Monthly, Yearly)
+
+SELECT 
+    YEAR(order_Date) AS Year,
+    MONTH(order_Date) AS Month,
+    SUM(Sales) AS Total_Sales
+FROM Orders
+GROUP BY YEAR(order_Date), MONTH(order_Date)
+ORDER BY Year, Month;
+
+--Top-Selling Products by Revenue
+SELECT Top 10 
+    P.Product_Name, 
+    SUM(O.Sales) AS Total_Sales
+FROM Orders O
+JOIN Products P ON O.Product_ID = P.Product_ID
+GROUP BY P.Product_Name
+ORDER BY Total_Sales DESC;
+
+--Least-Selling Products by Revenue
+SELECT Top 10
+    P.Product_Name, 
+    SUM(O.Sales) AS Total_Sales
+FROM Orders O
+JOIN Products P ON O.Product_ID = P.Product_ID
+GROUP BY P.Product_Name
+ORDER BY Total_Sales ASC;
+
+--Best-Performing Store Branches by Sales
+SELECT 
+    SB.City, SB.State, 
+    SUM(O.Sales) AS Total_Sales
+FROM Orders O
+JOIN Store_Branches SB ON O.Store_Branch_ID = SB.Store_Branch_ID
+GROUP BY SB.City, SB.State
+ORDER BY Total_Sales DESC;
+
+--Sales Trends Over Time
+SELECT 
+    Order_Date, 
+    SUM(Sales) AS Total_Sales
+FROM Orders
+GROUP BY Order_Date
+ORDER BY Order_Date;
+
+--2️ Customer Behavior & Segmentation
+--Top Customers Based on Total Purchases
+SELECT Top 10
+    C.Customer_ID, C.Customer_Name, 
+    SUM(O.Sales) AS Total_Spent
+FROM Orders O
+JOIN Customers C ON O.Customer_ID = C.Customer_ID
+GROUP BY C.Customer_ID, C.Customer_Name
+ORDER BY Total_Spent DESC;
+
+--Sales by Customer Segment
+SELECT 
+    C.Segment, 
+    SUM(O.Sales) AS Total_Sales
+FROM Orders O
+JOIN Customers C ON O.Customer_ID = C.Customer_ID
+GROUP BY C.Segment
+ORDER BY Total_Sales DESC;
+
+--Customer Retention Rate (Repeat Customers)
+SELECT 
+    C.Customer_ID, C.Customer_Name, 
+    COUNT(O.Order_ID) AS Purchase_Count
+FROM Orders O
+JOIN Customers C ON O.Customer_ID = C.Customer_ID
+GROUP BY C.Customer_ID, C.Customer_Name
+HAVING COUNT(O.Order_ID) > 1
+ORDER BY Purchase_Count DESC;
+
+--Average Order Value (AOV) per Customer Segment
+SELECT 
+    C.Segment, 
+    AVG(O.Sales) AS Avg_Order_Value
+FROM Orders O
+JOIN Customers C ON O.Customer_ID = C.Customer_ID
+GROUP BY C.Segment
+ORDER BY Avg_Order_Value DESC;
+
+--3️ Product & Category Insights
+--Best-Selling Categories & Subcategories
+SELECT 
+    P.Category, P.Sub_Category, 
+    SUM(O.Sales) AS Total_Sales
+FROM Orders O
+JOIN Products P ON O.Product_ID = P.Product_ID
+GROUP BY P.Category, P.Sub_Category
+ORDER BY Total_Sales DESC;
+
+--Profitability of Different Product Categories
+--(Assuming there is a Sales column in the Orders table)
+SELECT 
+    P.Category, 
+    SUM(O.Sales) AS Total_Sales
+FROM Orders O
+JOIN Products P ON O.Product_ID = P.Product_ID
+GROUP BY P.Category
+ORDER BY Total_Sales DESC;
+
+--Cross-Selling Opportunities (Products Frequently Bought Together)
+SELECT TOP 10
+    O1.Product_ID AS Product_A, P1.Product_Name AS Product_A_Name,
+    O2.Product_ID AS Product_B, P2.Product_Name AS Product_B_Name,
+    COUNT(*) AS Frequency
+FROM Orders O1
+JOIN Orders O2 ON O1.Order_ID = O2.Order_ID AND O1.Product_ID <> O2.Product_ID
+JOIN Products P1 ON O1.Product_ID = P1.Product_ID
+JOIN Products P2 ON O2.Product_ID = P2.Product_ID
+GROUP BY O1.Product_ID, P1.Product_Name, O2.Product_ID, P2.Product_Name
+ORDER BY Frequency DESC;
+
+--4️ Shipping & Delivery Efficiency
+--Average Shipping Time (Delivery Time) By Ship Mode Name
+SELECT 
+    AVG(DATEDIFF(DAY, O.Order_Date, O.Ship_Date)) AS Avg_Shipping_Days , S.Ship_Mode_Name
+FROM Orders O
+JOIN Ship_Modes S ON O.Ship_Mode_ID = S.Ship_Mode_ID
+GROUP BY S.Ship_Mode_Name
+
+--Most Preferred Shipping Modes
+SELECT 
+    S.Ship_Mode_Name, 
+    COUNT(O.Order_ID) AS Order_Count
+FROM Orders O
+JOIN Ship_Modes S ON O.Ship_Mode_ID = S.Ship_Mode_ID
+GROUP BY S.Ship_Mode_Name
+ORDER BY Order_Count DESC;
+
+--Delayed Deliveries (Shipping Time Exceeds 7 Days)
+SELECT 
+    O.Order_ID, C.Customer_Name, 
+    DATEDIFF(DAY, O.Order_Date, O.Ship_Date) AS Shipping_Days
+FROM Orders O
+JOIN Customers C ON O.Customer_ID = C.Customer_ID
+WHERE DATEDIFF(DAY, O.Order_Date, O.Ship_Date) > 7
+ORDER BY Shipping_Days DESC;
+
+--5️ Regional Sales Insights
+--Total Sales by City & State
+SELECT 
+    SB.City, SB.State, 
+    SUM(O.Sales) AS Total_Sales
+FROM Orders O
+JOIN Store_Branches SB ON O.Store_Branch_ID = SB.Store_Branch_ID
+GROUP BY SB.City, SB.State
+ORDER BY Total_Sales DESC;
+
+--Regional Demand Trends (Best-Selling Products per Region)
+SELECT 
+    SB.Region, P.Product_Name, 
+    SUM(O.Sales) AS Total_Sales
+FROM Orders O
+JOIN Store_Branches SB ON O.Store_Branch_ID = SB.Store_Branch_ID
+JOIN Products P ON O.Product_ID = P.Product_ID
+GROUP BY SB.Region, P.Product_Name
+ORDER BY SB.Region, Total_Sales DESC;
+
+--6️ Forecasting & Predictive Insights
+--Predict Future Sales Trends (Yearly Growth)
+SELECT 
+    YEAR(Order_Date) AS Year, 
+    SUM(Sales) AS Total_Sales, 
+    LAG(SUM(Sales)) OVER (ORDER BY YEAR(Order_Date)) AS Prev_Year_Sales,
+    (SUM(Sales) - LAG(SUM(Sales)) OVER (ORDER BY YEAR(Order_Date))) / LAG(SUM(Sales)) OVER (ORDER BY YEAR(Order_Date)) * 100 AS Sales_Growth_Percentage
+FROM Orders
+GROUP BY YEAR(Order_Date)
+ORDER BY Year;
+
